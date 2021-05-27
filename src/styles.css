@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.box {
+  margin: 20px 30px;
+}
+span {
+  font-size: 30px;
+  font-weight: bold;
+}
+button {
+  margin: 10px;
+  padding: 5px 10px;
+  color: white;
+  background: lightblue;
+  border-radius: 5px;
+  box-shadow: 3px 3px 3px 3px lightgray;
+}
+button:hover {
+  background: darkblue;
+  color: aqua;
+}
